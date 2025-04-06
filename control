@@ -1,0 +1,11 @@
+Package: eu.midkin.smartvolumecontrol3
+Name: SmartVolumeControl3
+Architecture: iphoneos-arm, iphoneos-arm64
+Description: iOS's most advanced volume controller.
+Maintainer: midkin <midkin@hotmail.com>
+Author: midkin <midkin@hotmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware(>=13.0), firmware(<=15.9)
+Depiction: https://midkin.eu/cydia/?depiction=svc3
+SileoDepiction: https://midkin.eu/sileo/?depiction=svc3
+Version: 1.2.3
